@@ -7,7 +7,7 @@ import Content from './Content/Content';
 class App extends React.Component {
     state = {
         persons : [
-            {name: 'Zeeshan', age: '23' , title:"Front End Developer" , email: "zeeshan2636@gmail.com" , phoneNumber: "03365192096" , linkedinProfile: ""},
+            {name: 'Zeeshan', age: '23' , title:"Front End Developer" , email: "zeeshan2636@gmail.com" , phoneNumber: "03365192096" , linkedinProfile: "https://www.linkedin.com/in/muhammad-zeeshan-zafar-8a059510a/"},
         ]
     }
 
@@ -20,7 +20,7 @@ class App extends React.Component {
             <div>
             <Navbar/>
         
-            <Content name={this.state.persons[0].name} age={this.state.persons[0].age} />
+            <Content name={this.state.persons[0].name} age={this.state.persons[0].age} email={this.state.persons[0].email}/>
             <div className="alert alert-primary" role="alert">
                 This is a primary alert—check it out!
             </div>
