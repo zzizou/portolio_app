@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portolio_app/static/css/main.2cce8147.chunk.css",
-    "main.js": "/portolio_app/static/js/main.551e06c0.chunk.js",
-    "main.js.map": "/portolio_app/static/js/main.551e06c0.chunk.js.map",
+    "main.js": "/portolio_app/static/js/main.6339a570.chunk.js",
+    "main.js.map": "/portolio_app/static/js/main.6339a570.chunk.js.map",
     "runtime~main.js": "/portolio_app/static/js/runtime~main.3aa2598f.js",
     "runtime~main.js.map": "/portolio_app/static/js/runtime~main.3aa2598f.js.map",
-    "static/js/2.39b8e0b3.chunk.js": "/portolio_app/static/js/2.39b8e0b3.chunk.js",
-    "static/js/2.39b8e0b3.chunk.js.map": "/portolio_app/static/js/2.39b8e0b3.chunk.js.map",
+    "static/js/2.9f6847b6.chunk.js": "/portolio_app/static/js/2.9f6847b6.chunk.js",
+    "static/js/2.9f6847b6.chunk.js.map": "/portolio_app/static/js/2.9f6847b6.chunk.js.map",
     "index.html": "/portolio_app/index.html",
-    "precache-manifest.9c7a81438514de2afd365776e19b65d1.js": "/portolio_app/precache-manifest.9c7a81438514de2afd365776e19b65d1.js",
+    "precache-manifest.4d8c7e2d67dc82d67c967339cc54d4df.js": "/portolio_app/precache-manifest.4d8c7e2d67dc82d67c967339cc54d4df.js",
     "service-worker.js": "/portolio_app/service-worker.js",
     "static/css/main.2cce8147.chunk.css.map": "/portolio_app/static/css/main.2cce8147.chunk.css.map"
   }
