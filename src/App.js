@@ -4,6 +4,7 @@ import { directive } from '@babel/types';
 import { builtinModules } from 'module';
 import Navbar from './Navbar/Navbar';
 import Content from './Content/Content';
+import zizou from './zizou.png';
 class App extends React.Component {
     state = {
         persons : [
@@ -19,7 +20,9 @@ class App extends React.Component {
         return (
             <div>
             <Navbar/>
-        
+            <br />
+            <br/>
+            <br/>
             <Content name={this.state.persons[0].name} age={this.state.persons[0].age} email={this.state.persons[0].email}/>
             <div className="alert alert-primary" role="alert">
                 This is a primary alert—check it out!
@@ -27,6 +30,7 @@ class App extends React.Component {
             <button onClick={this.btnEventHandler}>
                 Click me!
             </button>
+            <img src={zizou} alt="asdasd" />
             </div>
             
         );
