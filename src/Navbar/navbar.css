@@ -1,15 +1,15 @@
-.mynav .navbar{
+/* .mynav .navbar{
     border-bottom-left-radius: 10px !important;
     border-bottom-right-radius: 10px !important;
     border-top-left-radius: 10px !important;
     border-top-right-radius: 10px !important;
    
-}
+} */
 nav{
     border-bottom-left-radius: 10px !important;
     border-bottom-right-radius: 10px !important;
-    border-top-left-radius: 10px !important;
-    border-top-right-radius: 10px !important;
+    /* border-top-left-radius: 10px !important;
+    border-top-right-radius: 10px !important; */
     
 }
 #intro{
@@ -17,4 +17,10 @@ nav{
     -webkit-box-shadow: 1px 2px 11px 3px rgba(230,221,230,0.38);
 -moz-box-shadow: 1px 2px 11px 3px rgba(230,221,230,0.38);
 box-shadow: 1px 2px 11px 3px rgba(230,221,230,0.38);
+}
+.custombtn{
+    background: #000428; 
+    background: -webkit-linear-gradient(to right, #004e92, #000428);
+    background: linear-gradient(to right, #004e92, #000428); 
+    color: white;
 }
