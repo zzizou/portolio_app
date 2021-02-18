@@ -16,7 +16,7 @@ class Contact extends React.Component{
        <div className="row">
        <div className="offset-md-1 col-md-3 "> 
        <div  class="mycard">
-                      <img width="50" height="50" className="card-img-top" src="/assets/gmail.svg" alt="Card image cap"/>
+                      <img width="50" height="50" className="card-img-top" src="public/assets/gmail.svg" alt="Card image cap"/>
                       <div className="card-body">
                           <h6 className="card-text text-center">Email</h6>
                      </div>

@@ -9,19 +9,18 @@ function Intro() {
     <div className=" container mt-5 mb-5  c1">
       <div style={divmar}>
         <div className="offset-md-5 offset-5 myimg">
-          <img className="img-fluid imgcircle" src="/assets/zizou.png" />
+          <img className="img-fluid imgcircle" src="../assets/zizou.png" />
         </div>
         <h1 className="text-center " id="title">
-          ZEESHAN ZAFAR
+          M ZEESHAN ZAFAR
         </h1>
         <p className=" text-center" id="subtitle">
-          FULL STACK DEVELOPER
+          Tech Enthusiast
         </p>
         <p className=" text-center lead">
-          A Full Stack Developer who understands that Practicality, Hard work
-          and Determination is the way towards success. I am extremely motivated
-          to constantly develop my skills and grow professionally to earn
-          experience by working with experts for learning new skill.
+          I understands that Practicality, Hard work and Determination is the
+          way towards success. I am extremely motivated to constantly develop my
+          skills.
         </p>
       </div>
       {/* // <img class="card-img" width="60" src="/assets/zeeshan.jpg" alt="Zeeshan Zafar"/> */}
